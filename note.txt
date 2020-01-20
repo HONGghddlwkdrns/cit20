@@ -3,3 +3,5 @@ cd 폴더이름 그폴더로감
 cd .. 부모폴더로감
 python 파일이름.py  파일실행
 이거 저장하는법 ctrl+s
+
+폴더 올리는법 commit to master
