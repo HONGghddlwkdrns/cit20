@@ -5,3 +5,9 @@ python 파일이름.py  파일실행
 이거 저장하는법 ctrl+s
 
 폴더 올리는법 commit to master
+
+
+atom에 폴더를 실행시키는방법?> 내파일(cit20)을 불러온다 file>open folder
+operation시 소괄호로 계산. 중괄호는 인식하지 못함
+문자열도 계산 가능
+수를 비교시 (>,<) 불리언으로 산출됨
